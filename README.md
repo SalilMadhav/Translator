@@ -41,5 +41,5 @@ Please enter the text you want to translate. नमस्ते दुनिय�
 Hello world
 
 
-📄 License
+<h2>📄 License</h2>
 This project is open-source and free to use for educational or personal purposes.
